@@ -25,8 +25,6 @@ const Navigation = () => {
           return '<-Home';
         case '/modin1':
           return 'Summary';
-        case '/testsample':
-          return 'Summary';
         default:
           return 'Menu';
     }};

@@ -28,7 +28,7 @@ const Home = () => {
         <h2 className="text-4xl font-bold text-white mb-4">Discover ADA-3</h2>
         <p className="text-gray-300 dark:text-gray-500">
           Immerse yourself in the intersection of art and technology with ADA-3 x DPS. 
-          Welcome to ADA-3, a collaborative project by 3 anonymous students of DPS Ranchi. ADA-3 is a multi-functional platform designed to cater to various aspects of information management and user interaction. Our team has successfully implemented several key features, and we're excited to share them with you.
+          Welcome to ADA-3, a collaborative project and a friend group of 3 anonymous students of DPS Ranchi. ADA-3 is a multi-functional platform designed to cater to various aspects of information management and user interaction. Our team has successfully implemented several key features, and we're excited to share them with you.
         </p>
         <p className="text-gray-300 dark:text-gray-500 mt-4">
           From interactive installations to thought-provoking displays, we curate experiences that

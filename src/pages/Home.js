@@ -35,7 +35,7 @@ const Home = () => {
           captivate and inspire.
         </p>
         <div className="mt-6">
-          <a href="{newurl}">
+          <a href={newurl}>
           <button className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-full">
             Explore Projects
           </button>

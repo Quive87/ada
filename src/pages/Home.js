@@ -5,7 +5,7 @@ import '../components/Home.css'
 const Home = () => {
   const ada3LogoUrl = 'https://quive87.github.io/gg/pro/adapare.png';
   const exhibitionLogoUrl = 'https://www.dpsranchi.com/img/logo.png';
-  const newurl = 'https://dpsranchi.pages.dev/';
+  const newurl = 'https://ada-main.pages.dev/';
   return (
     <>
     <Navigation />
